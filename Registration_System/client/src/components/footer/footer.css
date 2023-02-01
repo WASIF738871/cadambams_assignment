@@ -1,0 +1,24 @@
+
+
+
+.footer{
+        margin: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        display: flex;
+}
+div{
+        justify-content: space-between;
+}
+
+div .footer_span{
+        display: block;
+        background: #101933;
+        text-align: center;
+        width: 150px;
+        color: white;
+        border: 0.964567px solid #101933;
+        border-radius: 38.5827px;
+        padding: 13px;
+}
+

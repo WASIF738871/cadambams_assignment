@@ -1,0 +1,32 @@
+.step6 {
+  height: 55vh;
+  margin-left: 10vw;
+}
+.step6 .btn {
+  margin-left: 4vw;
+}
+.step6 .btn button {
+  width: 100px;
+  font-size: 17px;
+  color: white;
+  background: #11af22;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+.step6_registration {
+  position: absolute;
+  right: 10%;
+}
+.step6_registration h4 {
+  font-weight: 400;
+  color: #000000;
+}
+.step6_registration .color {
+  height: 2px;
+  width: 100%;
+  margin-top: 5px;
+  background: #11af22;
+}
+

@@ -1,0 +1,31 @@
+.step5 {
+  height: 55vh;
+  margin-left: 10vw;
+}
+.step5 .next {
+  position: absolute;
+  right: 16%;
+}
+.step5_registration {
+    position: absolute;
+    right: 10%;
+  }
+  .step5_registration h4 {
+    font-weight: 400;
+    color: #000000;
+  }
+.step5_registration .color {
+    height: 2px;
+    width: 66%;
+    margin-top: 5px;
+    background: #11af22;
+  }
+.step5 .next button {
+  background-color: #3278ff;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  width: 80px;
+  padding: 5px;
+}

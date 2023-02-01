@@ -1,0 +1,32 @@
+
+
+.step2{
+    margin-left: 8vw;
+    height: 55vh;
+    padding: 8px;
+}
+.container{
+    margin: 20px;
+}
+.container .type_container button{
+    background: #FFFFFF;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #3278FF;
+}
+.container input{
+    height: 22px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #3278FF;
+    border-radius: 5px;
+}
+.container button{
+    border: none;
+    background: #00CD34;
+    height: 34px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}

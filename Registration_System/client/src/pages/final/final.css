@@ -1,0 +1,37 @@
+.final {
+  margin: 0;
+  padding: 0;
+  height: 55vh;
+}
+.final_containt {
+  padding-top: 7%;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+.final_containt h3 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.final_containt p {
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+.final_confirmation{
+    margin: 10px;
+    color: #00CD34;
+}
+.final .next {
+  position: absolute;
+  bottom: 25%;
+  right: 16%;
+}
+.final .next button {
+  background-color: #3278ff;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  width: 155px;
+  padding: 5px;
+}

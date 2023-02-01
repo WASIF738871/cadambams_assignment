@@ -1,0 +1,19 @@
+
+.header{
+width: 100vw;
+text-align: center;
+padding-top: 34px;
+padding-bottom: 10px;
+}
+.header .header_title {
+  color: #3278ff;
+  font-weight: 700;
+  font-family: PP Telegraf;
+  margin-bottom: 32px;
+}
+.header .header_description{
+  font-size: 20px;
+  font-weight: 400;
+  font-family: PP Telegraf;
+  padding: 0 45px;
+}

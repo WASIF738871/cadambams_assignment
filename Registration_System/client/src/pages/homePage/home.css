@@ -1,0 +1,42 @@
+.home{
+    display: flex;
+    width: 80vw;
+    height: 55vh;
+    /* border: 1px solid lightblue; */
+}
+.home_section{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.home_left{
+    width: 60vw;
+    padding: 5px;
+}
+.home_left h3{
+    margin: 8px;
+}
+.home_right{
+    width: 34vw;
+    padding: 5px;
+}
+.home_right_time{
+    color: #000000;
+}
+.home_right div div{
+    text-align: center;
+}
+.home_right h4{
+    color: gray;
+    
+    margin: 15px;
+}
+.home_right_time{
+    border: 1px solid lightblue;
+    border-radius: 20px;
+    width: 25vh;
+    padding: 9px;
+    margin-bottom: 5px;
+}
+
